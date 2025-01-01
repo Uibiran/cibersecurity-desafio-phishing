@@ -2,8 +2,8 @@
 
 ### Ferramentas
 
-- Kali Linux
-- setoolkit
+- Parrot Linux
+- social engineering toolkit
 
 ### Configurando o Phishing no Kali Linux
 
@@ -12,9 +12,9 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Template ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.twitter.com
 
 ### Resutados
 
